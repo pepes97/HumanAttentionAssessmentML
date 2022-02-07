@@ -101,7 +101,7 @@ Note: we lowered the fps rate to let the attention detection system have the nee
 
 
 ### WebApp
-<a href = " https://pepes97.github.io/mlaia/" onclick="return ! window.open(this.href);">
+<a href = "https://pepes97.github.io/mlaia" onclick="return ! window.open(this.href);">
 <img src="./webapp/assets/img/favicon.png" width="200" height="200" /> 
 </a>
 
