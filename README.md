@@ -9,11 +9,18 @@ For further details, see the [paper](./paper/tedeschi-pepe-attention-detection.p
 
 ## Table of contents
 
-* [Dataset](#Dataset)
-    * [Standard Dataset](#1-Standard-Dataset) 
-    * [Face Detection Dataset](#2-Face-Detection-Dataset)
-    * [GAN augmented dataset](#3-GAN-augmented-dataset) 
-    * [Download](#How-to-download-the-dataset)
+- [Attention Detection System](#attention-detection-system)
+  - [Introduction](#introduction)
+  - [Table of contents](#table-of-contents)
+    - [Dataset](#dataset)
+      - [**1) Standard Dataset**](#1-standard-dataset)
+      - [**2) Face Detection Dataset**](#2-face-detection-dataset)
+      - [**3) GAN augmented dataset**](#3-gan-augmented-dataset)
+  - [How to download the dataset](#how-to-download-the-dataset)
+    - [Code](#code)
+    - [Demo](#demo)
+    - [WebApp](#webapp)
+    - [Contributors](#contributors)
 
 * [Code](#Code)
 
@@ -94,7 +101,7 @@ Note: we lowered the fps rate to let the attention detection system have the nee
 
 
 ### WebApp
-<a href = "https://sted97.github.io/" onclick="return ! window.open(this.href);">
+<a href = " https://pepes97.github.io/mlaia/" onclick="return ! window.open(this.href);">
 <img src="./webapp/assets/img/favicon.png" width="200" height="200" /> 
 </a>
 
