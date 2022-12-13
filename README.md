@@ -1,11 +1,11 @@
-# Attention Detection System
+# Human Attention Assessment Using A Machine Learning Approach with GAN-based Data Augmentation Technique Trained Using a Custom Dataset
 
 ## Introduction
 
 Many human-computer or human-robot interactions require the capability of the system of understanting whether the user is paying attention or not. However, to train such systems, large amounts of data are needed, but they are currently unavailable. In this paper, we first address the issue of data scarcity by creating a large dataset -- with about 120k images -- for the attention detection task. Then, we develop a strong baseline system which is able to correctly perform the task, achieving competitive results on the proposed dataset. Further, we extend our system by: i) adding an auxiliary face detection module, and ii) introducing a novel GAN-based data augmentation technique.
 Finally, we design a web application to enable real-time testing of the developed model.
 
-For further details, see the [paper](./paper/tedeschi-pepe-attention-detection.pdf).
+For further details, see the [paper](https://www.lidsen.com/journals/neurobiology/neurobiology-06-04-139).
 
 ## Table of contents
 
