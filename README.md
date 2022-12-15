@@ -1,4 +1,4 @@
-# Human Attention Assessment Using A Machine Learning Approach with GAN-based Data Augmentation Technique Trained Using a Custom Dataset
+# Human Attention Assessment Using A Machine Learning Approach with GAN-based Data Augmentation Technique Trained Using a Custom Dataset (OBM Neurobiology 2022)
 
 ## Introduction
 
